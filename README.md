@@ -23,7 +23,7 @@
 
 # Apps
 
-![Geany](https://img.shields.io/badge/geany-143?style=for-the-badge&logo=geany&logoColor=black&color=black&labelColor=yellow)
+[![View geany on GitHub](https://img.shields.io/github/stars/geany/geany?color=232323&label=geany&logo=github&labelColor=232323)](https://github.com/geany/geany)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
@@ -32,6 +32,7 @@
 <!--
 https://github.com/Ileriayo/markdown-badges
 
+TODO: add assembly lang
 
 **eadmaster/eadmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
