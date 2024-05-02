@@ -24,12 +24,12 @@
 # Desktop Apps
 
 ![KDE](https://a11ybadges.com/badge?logo=kde)
-[![Geany](https://img.shields.io/github/stars/geany/geany?color=232323&label=geany&logo=github&labelColor=232323)](https://github.com/geany/geany)
-[![Double Commander](https://img.shields.io/github/stars/doublecmd/doublecmd?color=232323&label=doublecmd&logo=github&labelColor=232323)](https://github.com/doublecmd/doublecmd)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+[![Geany](https://img.shields.io/static/v1?label=Geany&message=Geany&color=yellow&logo=geany)](https://github.com/geany/geany)
+[![Double Commander](https://img.shields.io/static/v1?label=DoubleCommander&message=DoubleCommander&color=red&logo=doublecmd)](https://github.com/doublecmd/doublecmd)
 
 # IoT
 
@@ -43,11 +43,13 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://eadmaster.altervista.org/wordpress/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@eadmaster2)
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/416057/eadmaster)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
 
 # Marketplaces
 
 [![eBay](https://a11ybadges.com/badge?logo=ebay)](https://www.ebay.com/usr/eadmaster)
+[![Vinted](https://img.shields.io/static/v1?label=Vinted&message=Vinted&color=green&logo=vinted)](https://www.vinted.it/member/149925938)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198087961612/)
 
 <!--
 https://github.com/Ileriayo/markdown-badges
