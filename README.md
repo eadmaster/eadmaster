@@ -44,13 +44,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@eadmaster2)
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/416057/eadmaster)
 
-
-# Marketplaces
-
-[![eBay](https://a11ybadges.com/badge?logo=ebay)](https://www.ebay.com/usr/eadmaster)
-[![Vinted](https://img.shields.io/static/v1?label=Vinted&message=Vinted&color=green&logo=vinted)](https://www.vinted.it/member/149925938)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198087961612/)
-
 <!--
 https://github.com/Ileriayo/markdown-badges
 https://github.com/a11y-badges/a11y-markdown-badges
