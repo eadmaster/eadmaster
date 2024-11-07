@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Currently working on
+
+ - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
+ - [Bruce](https://github.com/pr3y/Bruce) port for [LILYGO T-Embed CC1101](https://www.lilygo.cc/products/t-embed-cc1101)
 
 # Tech Stack
 
@@ -21,6 +25,14 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
+# Social
+
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://eadmaster.altervista.org/wordpress/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@eadmaster2)
+[![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/416057/eadmaster)
+
+<!--
+
 # Desktop Apps
 
 ![KDE](https://a11ybadges.com/badge?logo=kde)
@@ -38,13 +50,7 @@
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
-# Social
 
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://eadmaster.altervista.org/wordpress/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@eadmaster2)
-[![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/416057/eadmaster)
-
-<!--
 https://github.com/Ileriayo/markdown-badges
 https://github.com/a11y-badges/a11y-markdown-badges
 
