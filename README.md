@@ -9,7 +9,8 @@
 
  - [Bruce improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
  - Retroarch new features: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
-     - generic [hiscore saving script POC](https://github.com/eadmaster/console_hiscore)
+     - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
+     - [Hiscore monitor script POC](https://github.com/eadmaster/console_hiscore)
  - libretro cores [per-channel volume (re)balance options](https://eadmaster.altervista.org/wordpress/archives/90)
    - https://github.com/libretro/nestopia/pull/15
    - https://github.com/libretro/snes9x/pull/289
@@ -19,7 +20,7 @@
    - [FBNeo fork](https://github.com/eadmaster/FBNeo-chvolmod)
  - libretro cores colorization hacks
    - https://github.com/libretro/gambatte-libretro/pull/4 https://github.com/libretro/gambatte-libretro/pull/5
-   - [virtual boy shader](https://eadmaster.altervista.org/pub/index.php?page=shaders)
+   - [Virtual Boy SGB-style Shader](https://eadmaster.altervista.org/pub/index.php?page=shaders)
    - [beetle-wswan-libretro](https://github.com/libretro/beetle-wswan-libretro/issues/79)
 
 # Tech Stack
