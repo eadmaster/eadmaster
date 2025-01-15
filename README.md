@@ -3,11 +3,11 @@
 # Currently working on
 
  - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
- - [Bruce](https://github.com/pr3y/Bruce) port for [LILYGO T-Embed CC1101](https://www.lilygo.cc/products/t-embed-cc1101)
+ - [Bruce improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
+ - [videogame hacks and fan translations](https://eadmaster.altervista.org/wordpress/archives/443)
 
 # Previously worked on
 
- - [Bruce improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
  - Retroarch new features: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
      - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
      - [Hiscore monitor script POC](https://github.com/eadmaster/console_hiscore)
