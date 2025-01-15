@@ -4,7 +4,6 @@
 
  - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
  - [Bruce improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
- - [videogame hacks and fan translations](https://eadmaster.altervista.org/wordpress/archives/443)
 
 # Previously worked on
 
