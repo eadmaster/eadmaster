@@ -2,6 +2,7 @@
 
 # Currently working on
 
+ - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
  - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
  - [Bruce improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
 
