@@ -12,7 +12,7 @@
      - [RetroHiscores](https://github.com/eadmaster/RetroHiscores)
  - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
  - [Bruce ESP32 firmware improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
- - libretro cores [per-channel volume (re)balance hacksss](https://eadmaster.altervista.org/wordpress/archives/90)
+ - libretro cores [per-channel volume (re)balance hacks](https://eadmaster.altervista.org/wordpress/archives/90)
    - https://github.com/libretro/nestopia/pull/15
    - https://github.com/libretro/snes9x/pull/289
    - https://github.com/libretro/beetle-pce-fast-libretro/pull/165
