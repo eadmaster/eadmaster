@@ -3,16 +3,16 @@
 # Currently working on
 
  - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
-    - [RetroSubs script](https://github.com/eadmaster/RetroSubs)
-    - [RetroHiscores script](https://github.com/eadmaster/RetroHiscores)
- - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
- - [Bruce improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
+    - [RetroSubs](https://github.com/eadmaster/RetroSubs)
 
 # Previously worked on
 
- - Retroarch new features: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
+ - Retroarch new features and scripts: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
      - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
- - libretro cores [per-channel volume (re)balance options](https://eadmaster.altervista.org/wordpress/archives/90)
+     - [RetroHiscores](https://github.com/eadmaster/RetroHiscores)
+ - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
+ - [Bruce ESP32 firmware improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
+ - libretro cores [per-channel volume (re)balance hacksss](https://eadmaster.altervista.org/wordpress/archives/90)
    - https://github.com/libretro/nestopia/pull/15
    - https://github.com/libretro/snes9x/pull/289
    - https://github.com/libretro/beetle-pce-fast-libretro/pull/165
