@@ -3,6 +3,8 @@
 # Currently working on
 
  - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
+    - [RetroSubs script](https://github.com/eadmaster/RetroSubs)
+    - [RetroHiscores script](https://github.com/eadmaster/RetroHiscores)
  - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
  - [Bruce improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
 
@@ -10,7 +12,6 @@
 
  - Retroarch new features: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
      - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
-     - [Hiscore monitor script POC](https://github.com/eadmaster/console_hiscore)
  - libretro cores [per-channel volume (re)balance options](https://eadmaster.altervista.org/wordpress/archives/90)
    - https://github.com/libretro/nestopia/pull/15
    - https://github.com/libretro/snes9x/pull/289
