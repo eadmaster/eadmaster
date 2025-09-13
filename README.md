@@ -3,7 +3,7 @@
 # Currently working on
 
  - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
-    - [RetroSubs](https://github.com/eadmaster/RetroSubs)
+    - [RetroSubs scripts and fan translations](https://github.com/eadmaster/RetroSubs)
 
 # Previously worked on
 
@@ -17,7 +17,6 @@
    - https://github.com/libretro/snes9x/pull/289
    - https://github.com/libretro/beetle-pce-fast-libretro/pull/165
    - https://github.com/libretro/Genesis-Plus-GX/pull/226
-   - https://github.com/libretro/gambatte-libretro/issues/166
    - [FBNeo fork](https://github.com/eadmaster/FBNeo-chvolmod)
  - libretro cores colorization hacks
    - https://github.com/libretro/gambatte-libretro/pull/4 https://github.com/libretro/gambatte-libretro/pull/5
