@@ -3,7 +3,7 @@
 # Currently working on
 
  - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
-    - [RetroSubs scripts and fan translations](https://github.com/eadmaster/RetroSubs)
+ - [RetroSubs script and fan translations](https://github.com/eadmaster/RetroSubs)
 
 # Previously worked on
 
