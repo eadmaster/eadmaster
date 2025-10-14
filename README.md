@@ -3,7 +3,7 @@
 # Currently working on
 
  - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
- - [RetroSubs lua script and fan translations](https://github.com/eadmaster/RetroSubs)
+ - [RetroSubs = subtitles for retrogames](https://github.com/eadmaster/RetroSubs)
  - [Slime Mori Mori GBA fan translation](https://github.com/eadmaster/Translimeation)
 
 # Previously worked on
