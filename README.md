@@ -8,7 +8,6 @@
 
 # Previously worked on
 
- - Quicksaves support for [melonDS on switch](https://github.com/Gheovgos/melonDS/pull/15) and [red-viper on 3DS](https://github.com/skyfloogle/red-viper/issues/89)
  - Retroarch new features and scripts: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
      - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
      - [RetroHiscores](https://github.com/eadmaster/RetroHiscores)
