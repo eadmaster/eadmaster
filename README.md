@@ -3,7 +3,7 @@
 # Currently working on
 
  - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
- - [RetroSubs = subtitles for retrogames](https://github.com/eadmaster/RetroSubs)
+ - [RetroSubs = subtitles for retrogames](https://github.com/eadmaster/RetroSubs)  ([demo](https://www.youtube.com/watch?v=FXnXKVdJZg8))
  - [Slime Mori Mori GBA fan translation](https://github.com/eadmaster/Translimeation)
 
 # Previously worked on
@@ -15,13 +15,13 @@
  - [Bruce ESP32 firmware improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
  - libretro cores [per-channel volume (re)balance hacks](https://eadmaster.altervista.org/wordpress/archives/90)
    - https://github.com/libretro/nestopia/pull/15
-   - https://github.com/libretro/snes9x/pull/289
-   - https://github.com/libretro/beetle-pce-fast-libretro/pull/165
+   - https://github.com/libretro/snes9x/pull/289  ([demo](https://www.youtube.com/watch?v=pt0kS1qDxjo))
+   - https://github.com/libretro/beetle-pce-fast-libretro/pull/165  ([demo](https://www.youtube.com/watch?v=KgIa9eJQqRs))
    - https://github.com/libretro/Genesis-Plus-GX/pull/226
-   - [FBNeo fork](https://github.com/eadmaster/FBNeo-chvolmod)
+   - [FBNeo fork](https://github.com/eadmaster/FBNeo-chvolmod)  ([demo](https://www.youtube.com/watch?v=6wkwd0kphs4))
  - libretro cores colorization hacks
    - https://github.com/libretro/gambatte-libretro/pull/4 https://github.com/libretro/gambatte-libretro/pull/5
-   - [Virtual Boy SGB-style Shader](https://eadmaster.altervista.org/pub/index.php?page=shaders)
+   - [Virtual Boy SGB-style Shader](https://eadmaster.altervista.org/pub/index.php?page=shaders)  ([demo](https://www.youtube.com/watch?v=S2uAqjiBqFM))
    - [beetle-wswan-libretro](https://github.com/libretro/beetle-wswan-libretro/issues/79)
 
 # Tech Stack
