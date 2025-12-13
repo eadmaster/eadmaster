@@ -11,6 +11,7 @@
  - Retroarch new features and scripts: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
      - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
      - [RetroHiscores](https://github.com/eadmaster/RetroHiscores)
+     - [RetroGuides](https://github.com/eadmaster/RetroGuides)
  - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
  - [Bruce ESP32 firmware improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
  - libretro cores [per-channel volume (re)balance hacks](https://eadmaster.altervista.org/wordpress/archives/90)
