@@ -4,7 +4,7 @@
 
  - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
  - [RetroSubs = subtitles for retrogames](https://github.com/eadmaster/RetroSubs)  ([demo](https://www.youtube.com/watch?v=FXnXKVdJZg8))
- - [Slime Mori Mori GBA fan translation](https://github.com/eadmaster/Translimeation)
+ - [Robbit Mon Dieu PS1 fan translation](https://github.com/eadmaster/RobbitMonDieuPS1EngHack)
 
 # Previously worked on
 
@@ -12,9 +12,11 @@
      - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
      - [RetroHiscores](https://github.com/eadmaster/RetroHiscores)
      - [RetroGuides](https://github.com/eadmaster/RetroGuides)
- - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
+ - Fan translations:
+   - [Princess Crown Translation GPL Edition](https://github.com/eadmaster/pcrown)
+   - [Slime Mori Mori GBA fan translation](https://github.com/eadmaster/Translimeation)
  - [Bruce ESP32 firmware improvements and new features](https://github.com/pr3y/Bruce/pulls?q=author%3Aeadmaster+)
- - libretro cores [per-channel volume (re)balance hacks](https://eadmaster.altervista.org/wordpress/archives/90) for:
+ - libretro cores [per-channel volume hacks](https://eadmaster.altervista.org/wordpress/archives/90) for:
    - [Nestopia](https://github.com/libretro/nestopia/pull/15)
    - [Snes9x](https://github.com/libretro/snes9x/pull/289)  ([demo](https://www.youtube.com/watch?v=pt0kS1qDxjo))
    - [Beetle PC Engine Fast](https://github.com/libretro/beetle-pce-fast-libretro/pull/165)  ([demo](https://www.youtube.com/watch?v=KgIa9eJQqRs))
@@ -23,7 +25,7 @@
    - [Gambatte](https://github.com/libretro/gambatte-libretro/issues/166)
    - [bsnes-hd](https://github.com/DerKoun/bsnes-hd/pull/144)
  - libretro cores colorization hacks:
-   - [Gambatte](https://github.com/libretro/gambatte-libretro/pull/4) https://github.com/libretro/gambatte-libretro/pull/5
+   - [Gambatte custom palettes](https://github.com/libretro/gambatte-libretro/pull/4) + [GBC palettes](https://github.com/libretro/gambatte-libretro/pull/5)
    - [Virtual Boy SGB-style Shader](https://eadmaster.altervista.org/pub/index.php?page=shaders)  ([demo](https://www.youtube.com/watch?v=S2uAqjiBqFM))
    - [beetle-wswan-libretro](https://github.com/libretro/beetle-wswan-libretro/issues/79)
 
