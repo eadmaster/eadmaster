@@ -20,6 +20,8 @@
    - [Beetle PC Engine Fast](https://github.com/libretro/beetle-pce-fast-libretro/pull/165)  ([demo](https://www.youtube.com/watch?v=KgIa9eJQqRs))
    - [Genesis Plus GX](https://github.com/libretro/Genesis-Plus-GX/pull/226)
    - [FBNeo](https://github.com/eadmaster/FBNeo-chvolmod)  ([demo](https://www.youtube.com/watch?v=6wkwd0kphs4))
+   - [Gambatte](https://github.com/libretro/gambatte-libretro/issues/166)
+   - [bsnes-hd](https://github.com/DerKoun/bsnes-hd/pull/144)
  - libretro cores colorization hacks:
    - [Gambatte](https://github.com/libretro/gambatte-libretro/pull/4) https://github.com/libretro/gambatte-libretro/pull/5
    - [Virtual Boy SGB-style Shader](https://eadmaster.altervista.org/pub/index.php?page=shaders)  ([demo](https://www.youtube.com/watch?v=S2uAqjiBqFM))
