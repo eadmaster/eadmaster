@@ -4,13 +4,13 @@
 
  - [Lua scripting support for RetroArch](https://github.com/eadmaster/RetroArch/releases)
  - [Robbit Mon Dieu PS1 fan translation](https://github.com/eadmaster/RobbitMonDieuPS1EngHack)
-
-# Previously worked on
-
  - Fast savestates stored in RAM:
    - [melonDS-switch](https://github.com/eadmaster/melonDS-switch/releases)
    - [mgba-switch (not merged)](https://github.com/eadmaster/mgba-libretro/releases)
    - [Flycast](https://github.com/flyinghead/flycast/pull/2252)
+
+# Previously worked on
+
  - Retroarch new features and scripts: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
      - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
      - [RetroHiscores](https://github.com/eadmaster/RetroHiscores)
