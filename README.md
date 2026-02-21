@@ -2,7 +2,7 @@
 
 # Currently working on
 
- - [Lua scripting support for RetroArch](https://github.com/libretro/RetroArch/issues/6454#issuecomment-3085644333)
+ - [Lua scripting support for RetroArch](https://github.com/eadmaster/RetroArch/releases)
  - [Robbit Mon Dieu PS1 fan translation](https://github.com/eadmaster/RobbitMonDieuPS1EngHack)
 
 # Previously worked on
@@ -22,9 +22,9 @@
    - [Snes9x](https://github.com/libretro/snes9x/pull/289)  ([demo](https://www.youtube.com/watch?v=pt0kS1qDxjo))
    - [Beetle PC Engine Fast](https://github.com/libretro/beetle-pce-fast-libretro/pull/165)  ([demo](https://www.youtube.com/watch?v=KgIa9eJQqRs))
    - [Genesis Plus GX](https://github.com/libretro/Genesis-Plus-GX/pull/226)
-   - [FBNeo](https://github.com/eadmaster/FBNeo-chvolmod)  ([demo](https://www.youtube.com/watch?v=6wkwd0kphs4))
-   - [Gambatte](https://github.com/libretro/gambatte-libretro/issues/166)
-   - [bsnes-hd](https://github.com/DerKoun/bsnes-hd/pull/144)
+   - [FBNeo (unmerged)](https://github.com/eadmaster/FBNeo-chvolmod/releases/tag/latest)  ([demo](https://www.youtube.com/watch?v=6wkwd0kphs4))
+   - [Gambatte (reverted)](https://github.com/eadmaster/gambatte-libretro/releases)
+   - [bsnes-hd (unmerged)](https://github.com/DerKoun/bsnes-hd/pull/144)
  - libretro cores colorization hacks:
    - [Gambatte custom](https://github.com/libretro/gambatte-libretro/pull/4) + [GBC BIOS palettes support](https://github.com/libretro/gambatte-libretro/pull/5)
    - [Virtual Boy SGB-style Shader](https://eadmaster.altervista.org/pub/index.php?page=shaders)  ([demo](https://www.youtube.com/watch?v=S2uAqjiBqFM))
