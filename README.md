@@ -8,6 +8,7 @@
    - [melonDS-switch](https://github.com/eadmaster/melonDS-switch/releases)
    - [mgba-switch (not merged)](https://github.com/eadmaster/mgba-libretro/releases)
    - [Flycast](https://github.com/flyinghead/flycast/pull/2252)
+   - [Azahar](https://github.com/azahar-emu/azahar/issues/1781)
 
 # Previously worked on
 
