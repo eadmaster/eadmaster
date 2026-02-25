@@ -4,11 +4,7 @@
 
  - [Lua scripting support for RetroArch](https://github.com/eadmaster/RetroArch/releases)
  - [Robbit Mon Dieu PS1 fan translation](https://github.com/eadmaster/RobbitMonDieuPS1EngHack)
- - Fast savestates stored in RAM:
-   - [melonDS-switch](https://github.com/eadmaster/melonDS-switch/releases)
-   - [mgba-switch (not merged)](https://github.com/eadmaster/mgba-libretro/releases)
-   - [Flycast](https://github.com/flyinghead/flycast/pull/2252)
-   - [Azahar](https://github.com/azahar-emu/azahar/issues/1781)
+
 
 # Previously worked on
 
