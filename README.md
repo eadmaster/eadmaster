@@ -2,13 +2,12 @@
 
 # Currently working on
 
- - [Lua scripting support for RetroArch](https://github.com/eadmaster/RetroArch/releases)
  - [Robbit Mon Dieu PS1 fan translation](https://github.com/eadmaster/RobbitMonDieuPS1EngHack)
-
+ - [ezrominject](https://github.com/eadmaster/ezrominject)
 
 # Previously worked on
 
- - Retroarch new features and scripts: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [new UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095)
+ - Retroarch new features and scripts: [multi-softpatching support](https://github.com/libretro/RetroArch/pull/12281), [UDP commands for scripting](https://github.com/libretro/RetroArch/pull/10095), [Lua scripting support](https://github.com/libretro/RetroArch/pull/18789)
      - [Native cheats converter](https://github.com/libretro/libretro-database/issues/1360)
      - [RetroHiscores](https://github.com/eadmaster/RetroHiscores)
      - [RetroGuides](https://github.com/eadmaster/RetroGuides)
