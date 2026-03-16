@@ -3,7 +3,7 @@
 # Currently working on
 
  - [Robbit Mon Dieu PS1 fan translation](https://github.com/eadmaster/RobbitMonDieuPS1EngHack)
- - [ezrominject](https://github.com/eadmaster/ezrominject)
+
 
 # Previously worked on
 
